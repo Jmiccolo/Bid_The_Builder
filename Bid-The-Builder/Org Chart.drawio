@@ -1,15 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T03:33:13.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="6IK_cBseNAPuGErgRCbk" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T14:06:05.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="JwZcL3sC6sI35jKrq2Kc" version="14.6.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2903" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3910" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="0.8" pageWidth="200" pageHeight="800" background="#CC0000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Executives" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="100" width="1580" height="280" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Executives" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#FFFFFF;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="30" y="30" width="2010" height="280" as="geometry" />
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Tessa Miller" position="CEO" placeholders="1" Profile="Executive" id="dNxyNK7c78bLwvsdeMH5-12">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="760" y="30" width="180" height="70" as="geometry" />
+            <mxGeometry x="905" y="30" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
@@ -17,7 +17,7 @@
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Edward Morrison" position="VP of Project Management" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" Profile="Executive" id="dNxyNK7c78bLwvsdeMH5-14">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
+            <mxGeometry x="75" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
@@ -25,7 +25,7 @@
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Evan Valet" position="VP of Sales" location="Office 4" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-16">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="760" y="180" width="180" height="80" as="geometry" />
+            <mxGeometry x="765" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
@@ -33,98 +33,88 @@
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Alison Donovan" position="VP of Warehouse Managment" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-18">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="1330" y="180" width="180" height="80" as="geometry" />
+            <mxGeometry x="1565" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wfm9b4yYykzMIaHz1rPf-3" value="Sales" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="535" y="410" width="710" height="290" as="geometry" />
+        <mxCell id="wfm9b4yYykzMIaHz1rPf-3" value="Sales" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="530" y="340" width="710" height="290" as="geometry" />
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Brittany Cauffield" position="Sales Manager" placeholders="1" Profile="Sales" id="wfm9b4yYykzMIaHz1rPf-4">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="wfm9b4yYykzMIaHz1rPf-3">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="wfm9b4yYykzMIaHz1rPf-3" vertex="1">
             <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wfm9b4yYykzMIaHz1rPf-5" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="wfm9b4yYykzMIaHz1rPf-3" source="wfm9b4yYykzMIaHz1rPf-4" target="wfm9b4yYykzMIaHz1rPf-6">
+        <mxCell id="wfm9b4yYykzMIaHz1rPf-5" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="wfm9b4yYykzMIaHz1rPf-3" source="wfm9b4yYykzMIaHz1rPf-4" target="wfm9b4yYykzMIaHz1rPf-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Crystal Silva" position="Salesperson" Profile="" placeholders="1" id="wfm9b4yYykzMIaHz1rPf-6">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="wfm9b4yYykzMIaHz1rPf-3">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="wfm9b4yYykzMIaHz1rPf-3" vertex="1">
             <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wfm9b4yYykzMIaHz1rPf-7" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="wfm9b4yYykzMIaHz1rPf-3" source="wfm9b4yYykzMIaHz1rPf-4" target="wfm9b4yYykzMIaHz1rPf-8">
+        <mxCell id="wfm9b4yYykzMIaHz1rPf-7" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="wfm9b4yYykzMIaHz1rPf-3" source="wfm9b4yYykzMIaHz1rPf-4" target="wfm9b4yYykzMIaHz1rPf-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Johnni Anderson" position="Salesperson" placeholders="1" id="wfm9b4yYykzMIaHz1rPf-8">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="wfm9b4yYykzMIaHz1rPf-3">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="wfm9b4yYykzMIaHz1rPf-3" vertex="1">
             <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wfm9b4yYykzMIaHz1rPf-9" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="wfm9b4yYykzMIaHz1rPf-3" source="wfm9b4yYykzMIaHz1rPf-4" target="wfm9b4yYykzMIaHz1rPf-10">
+        <mxCell id="wfm9b4yYykzMIaHz1rPf-9" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="wfm9b4yYykzMIaHz1rPf-3" source="wfm9b4yYykzMIaHz1rPf-4" target="wfm9b4yYykzMIaHz1rPf-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Keith Davidson" position="Business Development" placeholders="1" id="wfm9b4yYykzMIaHz1rPf-10">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="wfm9b4yYykzMIaHz1rPf-3">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="wfm9b4yYykzMIaHz1rPf-3" vertex="1">
             <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wfm9b4yYykzMIaHz1rPf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dNxyNK7c78bLwvsdeMH5-16" target="wfm9b4yYykzMIaHz1rPf-3">
+        <mxCell id="wfm9b4yYykzMIaHz1rPf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dNxyNK7c78bLwvsdeMH5-16" target="wfm9b4yYykzMIaHz1rPf-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wfm9b4yYykzMIaHz1rPf-12" value="Warehouse" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="410" width="710" height="290" as="geometry" />
+        <mxCell id="wfm9b4yYykzMIaHz1rPf-12" value="Warehouse" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="343" width="710" height="290" as="geometry" />
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Andre Franklin" position="Warehouse Manager" placeholders="1" Profile="Warehouse" id="wfm9b4yYykzMIaHz1rPf-13">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="wfm9b4yYykzMIaHz1rPf-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="wfm9b4yYykzMIaHz1rPf-12" vertex="1">
             <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wfm9b4yYykzMIaHz1rPf-14" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="wfm9b4yYykzMIaHz1rPf-12" source="wfm9b4yYykzMIaHz1rPf-13" target="wfm9b4yYykzMIaHz1rPf-15">
+        <mxCell id="wfm9b4yYykzMIaHz1rPf-14" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="wfm9b4yYykzMIaHz1rPf-12" source="wfm9b4yYykzMIaHz1rPf-13" target="vFSRGzKC6ALQBY-LRdDO-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Philip Alexander" position="Warehouse Floor" Profile="" placeholders="1" id="wfm9b4yYykzMIaHz1rPf-15">
+        <mxCell id="wfm9b4yYykzMIaHz1rPf-16" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="wfm9b4yYykzMIaHz1rPf-12" source="wfm9b4yYykzMIaHz1rPf-13" target="wfm9b4yYykzMIaHz1rPf-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Jessie Porter" position="Warehouse Floor" placeholders="1" id="wfm9b4yYykzMIaHz1rPf-17">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="wfm9b4yYykzMIaHz1rPf-12" vertex="1">
+            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wfm9b4yYykzMIaHz1rPf-18" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="wfm9b4yYykzMIaHz1rPf-12" source="wfm9b4yYykzMIaHz1rPf-13" target="wfm9b4yYykzMIaHz1rPf-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Kelly Hunter" position="Warehouse Floor" placeholders="1" id="wfm9b4yYykzMIaHz1rPf-19">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="wfm9b4yYykzMIaHz1rPf-12" vertex="1">
+            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Philip Alexander" position="Warehouse Floor" Profile="" placeholders="1" id="vFSRGzKC6ALQBY-LRdDO-2">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="wfm9b4yYykzMIaHz1rPf-12">
             <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wfm9b4yYykzMIaHz1rPf-16" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="wfm9b4yYykzMIaHz1rPf-12" source="wfm9b4yYykzMIaHz1rPf-13" target="wfm9b4yYykzMIaHz1rPf-17">
+        <mxCell id="wfm9b4yYykzMIaHz1rPf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dNxyNK7c78bLwvsdeMH5-18" target="wfm9b4yYykzMIaHz1rPf-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Jessie Porter" position="Warehouse Floor" placeholders="1" id="wfm9b4yYykzMIaHz1rPf-17">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="wfm9b4yYykzMIaHz1rPf-12">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="wfm9b4yYykzMIaHz1rPf-18" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="wfm9b4yYykzMIaHz1rPf-12" source="wfm9b4yYykzMIaHz1rPf-13" target="wfm9b4yYykzMIaHz1rPf-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Kelly Hunter" position="Warehouse Floor" placeholders="1" id="wfm9b4yYykzMIaHz1rPf-19">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="wfm9b4yYykzMIaHz1rPf-12">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="wfm9b4yYykzMIaHz1rPf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dNxyNK7c78bLwvsdeMH5-18" target="wfm9b4yYykzMIaHz1rPf-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wfm9b4yYykzMIaHz1rPf-21" value="Project Manager" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="-185" y="410" width="710" height="160" as="geometry" />
+        <mxCell id="wfm9b4yYykzMIaHz1rPf-21" value="Project Management" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="30" y="340" width="330" height="160" as="geometry" />
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Harry May" position="Project Manager" Profile="" placeholders="1" id="wfm9b4yYykzMIaHz1rPf-24">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="wfm9b4yYykzMIaHz1rPf-21">
-            <mxGeometry x="65" y="50" width="180" height="80" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="wfm9b4yYykzMIaHz1rPf-21" vertex="1">
+            <mxGeometry x="75" y="45" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Keith Davidson" position="Business Development" placeholders="1" id="wfm9b4yYykzMIaHz1rPf-28">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="wfm9b4yYykzMIaHz1rPf-21">
-            <mxGeometry x="495" y="50" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Johnni Anderson" position="Salesperson" placeholders="1" id="wfm9b4yYykzMIaHz1rPf-35">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="wfm9b4yYykzMIaHz1rPf-21">
-            <mxGeometry x="275" y="50" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="wfm9b4yYykzMIaHz1rPf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dNxyNK7c78bLwvsdeMH5-14" target="wfm9b4yYykzMIaHz1rPf-21">
+        <mxCell id="wfm9b4yYykzMIaHz1rPf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dNxyNK7c78bLwvsdeMH5-14" target="wfm9b4yYykzMIaHz1rPf-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
